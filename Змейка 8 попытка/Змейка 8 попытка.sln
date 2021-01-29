@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Змейка 8 попытка", "Змейка 8 попытка\Змейка 8 попытка.csproj", "{FA89C3E6-70D4-4004-BFBA-0D47C9BFBD13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA89C3E6-70D4-4004-BFBA-0D47C9BFBD13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA89C3E6-70D4-4004-BFBA-0D47C9BFBD13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA89C3E6-70D4-4004-BFBA-0D47C9BFBD13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA89C3E6-70D4-4004-BFBA-0D47C9BFBD13}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97C5D7A3-CE01-44B1-890A-E428E0C4CDB7}
+	EndGlobalSection
+EndGlobal
