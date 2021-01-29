@@ -1,0 +1,7 @@
+C:\Users\ATTO\Desktop\Змеяобщая\змея8\Змейка 8 попытка\Змейка 8 попытка\bin\Debug\Змейка 8 попытка.exe.config
+C:\Users\ATTO\Desktop\Змеяобщая\змея8\Змейка 8 попытка\Змейка 8 попытка\bin\Debug\Змейка 8 попытка.exe
+C:\Users\ATTO\Desktop\Змеяобщая\змея8\Змейка 8 попытка\Змейка 8 попытка\bin\Debug\Змейка 8 попытка.pdb
+C:\Users\ATTO\Desktop\Змеяобщая\змея8\Змейка 8 попытка\Змейка 8 попытка\obj\Debug\Змейка 8 попытка.csprojAssemblyReference.cache
+C:\Users\ATTO\Desktop\Змеяобщая\змея8\Змейка 8 попытка\Змейка 8 попытка\obj\Debug\Змейка 8 попытка.csproj.CoreCompileInputs.cache
+C:\Users\ATTO\Desktop\Змеяобщая\змея8\Змейка 8 попытка\Змейка 8 попытка\obj\Debug\Змейка 8 попытка.exe
+C:\Users\ATTO\Desktop\Змеяобщая\змея8\Змейка 8 попытка\Змейка 8 попытка\obj\Debug\Змейка 8 попытка.pdb

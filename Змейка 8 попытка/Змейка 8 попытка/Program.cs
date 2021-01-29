@@ -10,6 +10,10 @@ namespace Змейка_8_попытка
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello World");
+            Console.WriteLine("Hello World");
+
+            Console.WriteLine("Hello World");
         }
     }
 }
